@@ -1,2 +1,2 @@
 # Chandigarh-LULC-Classification
-A Random Forest model to classify Land Use/Land Cover (LULC) in Chandigarh using remote sensing indices.
+LULC classification of Chandigarh using Sentinel-1 (SAR) and Sentinel-2 (Optical) data.
